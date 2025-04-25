@@ -985,9 +985,9 @@ MonoBehaviour:
   cubePrefab: {fileID: 7369572218447769623, guid: f4a59693f72c987408518a5ee84aca50, type: 3}
   stackSize: 5
   cubeSize: 1
-  maxInitialTilt: 5
+  maxInitialTilt: 15
   randomTiltDirection: 1
-  fixedTiltAxis: {x: 0, y: 0, z: 1}
+  fixedTiltAxis: {x: 2, y: 0, z: 1}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

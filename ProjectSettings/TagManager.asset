@@ -6,6 +6,12 @@ TagManager:
   tags:
   - Platform
   - Ball
+  - StackCube
+  - GameManager
+  - YourTimeText
+  - Game Over Text
+  - scoresContainer
+  - scoreEntry
   layers:
   - Default
   - TransparentFX
